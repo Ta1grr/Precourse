@@ -1,0 +1,12 @@
+Variable: a keyword that can be used to store any value, such as strings, numbers and functions.
+
+Strings: words placed between single or double quotations are considered strings value with are used to output for users to read.
+
+Function: a preset of commands that output accordingly to what you put in, so let say you have a function that output "Hello" and you call upon the function with a name.
+It'll output the following: "Hello (name)".
+
+if statements: If statements run a value through a true or false sitation, if it is true then it'll run whatever pre-define command in it, if it is false, it'll continued on
+else and fulfill the commands in there instead.
+
+Boolean values: they're operators like in algebra, less than, greater than, less than or equal to, greater than or equal to, and, or. It compare variables, numbers, and
+other values, it is commonly used in if statements, while loop, do while loop.
