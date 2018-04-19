@@ -1,0 +1,8 @@
+for: Typically used to loop in an increment as long the condition is true, so let say i < 10, it'll continually looping (repeat) the output
+until it reach 10.
+
+&&: An "And" boolean/operator used to make sure both conditions are true, if anyone of the condition is false, it'll consider false, but if both conditions are false, then it'll consider to be true.
+
+||: An "Or" boolean/operator, it is used to make sure one of the two conditions are true before proceeding to the next step.
+
+!: the exclaimation mark used in javascript signify "Not", commonly used with !== (not equal).
