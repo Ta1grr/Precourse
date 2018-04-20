@@ -1,0 +1,2 @@
+Arrays: Imagine a file cabinet, you pull out one drawer and in it has files in a sequential order, you can reverse the order, put/remove files
+in the front, put/remove files in the rear. 
