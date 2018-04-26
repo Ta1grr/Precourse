@@ -1,0 +1,4 @@
+prototype: a way to create an object or override previous objects methods.
+
+Constructors: It display the path and datatype of objects properties whenever it is called upon and read only for primitive values such
+as numbers, booleans and strings.

@@ -1,0 +1,12 @@
+Objects: They are similar to arrays but a collection of numbers, arrays, strings, another object. You have to access it by calling
+the object name and then their property with either a dot or bracket in between. i.e.  Objects --> Objects.strings
+
+Properties: They are located inside of an object, generally make up of numbers, arrays, strings, or even another object. Objects.strings <--Properties
+
+Methods: located inside of a object as a function, can be called upon with a dot or brackets. 
+i.e. const object = {methods: function(){random stuff}};
+
+for in loop: a form of for loops generally used for objects.
+
+Dot notation vs bracket notation: dot notation is for calling properties without spaces, bracket notation can be used for calling properties
+with or without spaces.
