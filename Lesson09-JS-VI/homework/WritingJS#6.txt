@@ -1,0 +1,2 @@
+Callback Functions: A function that is being called by a higher order function. For example, if function called higher order has a function
+inside called callback, then callback would be consider the callback function.
